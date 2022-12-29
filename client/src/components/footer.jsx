@@ -54,7 +54,7 @@ const Footer = ()=>{
                   <p><i class="fas fa-home me-3"></i> New York, NY 10012, US</p>
                   <p>
                     <i class="fas fa-envelope me-3"></i>
-                    info@example.com
+                    kamalghrabla@gmail.com
                   </p>
                   <p><i class="fas fa-phone me-3"></i> + 01 234 567 88</p>
                   <p><i class="fas fa-print me-3"></i> + 01 234 567 89</p>
@@ -64,7 +64,7 @@ const Footer = ()=>{
           </section>     
           <div class="text-center p-4" >
             © 2021 Copyright:
-            <a class="text-reset fw-bold" href="https://mdbootstrap.com/">MDBootstrap.com</a>
+            <a class="text-reset fw-bold" href="https://github.com/ghrabla">kamalghrabla.com</a>
           </div>
         </footer>
 
